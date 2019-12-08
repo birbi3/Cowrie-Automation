@@ -1,11 +1,9 @@
-# Cowrie-Report-Gen
+# Cowrie-Automation
 
-requires requests module.
+### Some scrpts I wrote to handle repeatable tasks with data collection from my honeypot.
 
-Generates a csv with IP and country of origin from cowrie json logs. 
+#### Report
+- Generates a csv with IP and country of origin from cowrie json logs. 
 
-Uses ip-api to look up geo location of IP
-
-### Syntax
-
-./report.py >insert_json_file< 
+#### Dumptruck
+- Moves all malware samples to appropriate directory for the [malware repo](https://github.com/birbi3/malware)

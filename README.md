@@ -1,6 +1,6 @@
 # Cowrie-Automation
 
-### Some scrpts I wrote to handle repeatable tasks with data collection from my honeypot.
+### Some scripts I wrote to handle repeatable tasks with data collection from my honeypot.
 
 #### Report
 - Generates a csv with IP and country of origin from cowrie json logs. 
